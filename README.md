@@ -36,4 +36,20 @@ Cependant, Mephiles tue soudainement Sonic devant la princesse Elise. Celle-ci p
 ***
 ### Images
 
-![Sonic](https://static.wikia.nocookie.net/sonic/images/0/06/Next_sonic_00.png/revision/latest?cb=20170805154135 "Sonic")
+![Sonic](https://i1.sndcdn.com/artworks-000108944532-v3cvyv-t500x500.jpg "Sonic")
+Sonic
+
+![Shadow](https://i.pinimg.com/474x/ff/43/49/ff434974a7b8a9a6567401cb45ad1fa8--shadow-the-hedgehog-hedgehogs.jpg "Shadow")
+Shadow
+
+![Silver](https://static.wikia.nocookie.net/sonic/images/b/b2/TSR_Silver.png/revision/latest/top-crop/width/360/height/360?cb=20201002034915 "Silver")
+Silver
+
+![Elise](https://i.pinimg.com/550x/bd/c7/7c/bdc77c38b29c1b7c220cb8f6c7796b65.jpg "Elise")
+Elise
+
+![Dr.Eggman](https://i.pinimg.com/474x/6a/4f/a0/6a4fa0bcad687702cc0aff7161672407.jpg "Dr.Eggman")
+Dr.Eggman
+
+![Mephiles](https://static.wikia.nocookie.net/sonic/images/c/c3/Mephiles_SFSB_Render.png/revision/latest/top-crop/width/360/height/360?cb=20220927185219 "Mephiles")
+Mephiles

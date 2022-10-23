@@ -36,4 +36,4 @@ Cependant, Mephiles tue soudainement Sonic devant la princesse Elise. Celle-ci p
 ***
 ### Images
 
-![Sonic]()
+![Sonic](https://static.wikia.nocookie.net/sonic/images/0/06/Next_sonic_00.png/revision/latest?cb=20170805154135 "Sonic")
